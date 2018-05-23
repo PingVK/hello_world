@@ -1,2 +1,5 @@
 # hello_world
-guide
+
+I love coffee and milk tea!
+
+Have a good time!
