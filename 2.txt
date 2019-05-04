@@ -1,2 +1,3 @@
 is CRLF?
 or LF
+OK, I see. They are LF.
